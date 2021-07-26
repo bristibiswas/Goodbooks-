@@ -1,6 +1,6 @@
 <?php session_start() ?>
 
-<?php require " 'C:\wamp64\www\goodbooks\app\db-config.php' (include_path= '.;C:\php\pear')" //linking database?> 
+<?php require "db-config.php" //linking database?> 
 
 <?php
 
